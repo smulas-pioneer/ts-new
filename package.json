@@ -1,0 +1,26 @@
+{
+  "name": "ts-new",
+  "version": "1.0.0",
+  "description": "ts-new",
+  "main": "build/ts-new.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smulas/ts-new.git"
+  },
+  "keywords": [],
+  "author": "Simone Mulas (simone.mulas@gmail.com) @smulas",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.13.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.1.0",
+    "gulp-tsc": "^1.1.5",
+    "typescript": "^1.8.10"
+  }
+}
